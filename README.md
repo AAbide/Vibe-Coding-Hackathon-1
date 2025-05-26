@@ -59,7 +59,3 @@ A modern, phone number-based loyalty rewards system for local businesses. Help s
 - Framer Motion
 - Zod
 - Vitest
-
-## 📄 License
-
-MIT License - feel free to use this project for your own purposes!
